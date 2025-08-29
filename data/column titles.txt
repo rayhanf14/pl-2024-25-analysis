@@ -1,0 +1,25 @@
+Column	    Full Form	Meaning
+Date	    Match Date	Date when the match was played
+HomeTeam	Home Team	Team playing at home
+AwayTeam	Away Team	Team playing away
+FTHG	    Full Time Home Goals	Goals scored by the home team (final score)
+FTAG	    Full Time Away Goals	Goals scored by the away team (final score)
+FTR	        Full Time Result	Result of the match: H = Home Win, D = Draw, A = Away Win
+HTHG	    Half Time Home Goals	Goals scored by the home team at half-time
+HTAG	    alf Time Away Goals	Goals scored by the away team at half-time
+HTR	        Half Time Result	Result at half-time: H = Home Win, D = Draw, A = Away Win
+Referee	    Referee	Name of the referee officiating the match
+HS	        Home Shots	Total number of shots by the home team
+AS	        Away Shots	Total number of shots by the away team
+HST	        Home Shots on Target	Shots on target by the home team
+AST	        Away Shots on Target	Shots on target by the away team
+HF	        Home Fouls	Fouls committed by the home team
+AF          (sometimes written as AS in dataset)	Away Fouls	Fouls committed by the away team
+HC	        Home Corners	Number of corners won by the home team
+AC	        Away Corners	Number of corners won by the away team
+HY	        Home Yellow Cards	Yellow cards received by the home team
+AY	        Away Yellow Cards	Yellow cards received by the away team
+HR	        Home Red Cards	Red cards received by the home team
+AR	        Away Red Cards	Red cards received by the away team
+
+
